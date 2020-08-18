@@ -1,2 +1,2 @@
 # ARIES
-NodeJS Workshop
+Node.js app
