@@ -1,0 +1,7 @@
+.idea
+.vscode
+node_modules
+*.log
+app/config/environments/development.js
+app/config/environments/production.js
+uploads/*
